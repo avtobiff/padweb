@@ -86,6 +86,12 @@ body {
  font-style: italic;
 }
 
+.main h2 {
+ font-family: serif;
+ font-style: italic;
+ margin-top: 24pt;
+}
+
 
 /* Sizes and stuff */
 * {
@@ -117,6 +123,10 @@ img {
 
 .blurb img {
  padding-bottom: 20pt;
+}
+
+.no-decoration {
+ text-decoration: none;
 }
 
 .corner_outer {
